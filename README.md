@@ -40,16 +40,16 @@
 
 <p align="center">
 <a href="https://github.com/David-Jose2004">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Jose2004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Jose2004&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+![Profile views](https://gpvc.arturio.dev/David-Jose2004)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Jose2004&theme=chartreuse-dark)](https://github.com/David-Jose2004/github-readme-stats)
   
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
